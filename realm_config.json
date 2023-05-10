@@ -1,8 +1,8 @@
 {
-    "app_id": "platfour-qhfdw",
+    "app_id": "test-kmbun",
     "config_version": 20210101,
-    "name": "PlatFour",
-    "location": "US-VA",
-    "provider_region": "aws-us-east-1",
+    "name": "test",
+    "location": "SG",
+    "provider_region": "aws-ap-southeast-1",
     "deployment_model": "LOCAL"
 }
