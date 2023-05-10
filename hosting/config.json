@@ -1,7 +1,4 @@
 {
-    "enabled": true,
-    "custom_domain": "platfour.me",
-    "app_default_domain": "platfour-ccucq.mongodbstitch.com",
-    "default_error_path": "",
-    "default_error_code": ""
+    "enabled": false,
+    "app_default_domain": "platfour-ccucq.mongodbstitch.com"
 }
