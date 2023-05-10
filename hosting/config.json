@@ -1,7 +1,12 @@
 {
+<<<<<<< HEAD
     "enabled": true,
     "custom_domain": "binzhou.me",
     "app_default_domain": "platfour-ccucq.mongodbstitch.com",
     "default_error_path": "",
     "default_error_code": ""
+=======
+    "enabled": false,
+    "app_default_domain": "platfour-ccucq.mongodbstitch.com"
+>>>>>>> 761be34bd9729dbfd3f0bf1c6110aa7c4f1819a2
 }
