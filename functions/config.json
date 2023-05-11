@@ -1,7 +1,18 @@
 [
     {
-        "name": "geoLocate",
-        "private": true
+        "name": "processMove",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "joinGame",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "aggregatePlays",
+        "private": false,
+        "run_as_system": true
     },
     {
         "name": "getGameUpdate",
@@ -9,7 +20,7 @@
         "run_as_system": true
     },
     {
-        "name": "processMove",
+        "name": "isOffensiveUsername",
         "private": false,
         "run_as_system": true
     },
@@ -24,19 +35,8 @@
         "run_as_system": true
     },
     {
-        "name": "isOffensiveUsername",
-        "private": false,
-        "run_as_system": true
-    },
-    {
-        "name": "joinGame",
-        "private": false,
-        "run_as_system": true
-    },
-    {
-        "name": "aggregatePlays",
-        "private": false,
-        "run_as_system": true
+        "name": "geoLocate",
+        "private": true
     },
     {
         "name": "expireGames",
