@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "_id": {
+            "bsonType": "string"
+        },
+        "course": {
+            "bsonType": "string"
+        },
+        "email": {
+            "bsonType": "string"
+        },
+        "gpa": {
+            "bsonType": "double"
+        },
+        "name": {
+            "bsonType": "string"
+        }
+    },
+    "title": "student"
+}
